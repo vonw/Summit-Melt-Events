@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - matplotlib
+  - scipy
+  - bokeh
+  - xarray
+  - netcdf4
+  - cartopy
+  - jupyter
+  - jupyterlab
+  - ipython
+  - notebook
+
