@@ -4,6 +4,7 @@ This site contains code and analysis related to the study of melt events that ha
 
 ## Collaborators:
 - Chris Cox - NOAA
+- Heather Guy, - U. Leeds
 - Ryan Neely III - U. Leeds
 - Bill Neff - NOAA
 - Matt Shupe - NOAA
