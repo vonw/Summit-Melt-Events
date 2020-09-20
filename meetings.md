@@ -1,5 +1,20 @@
 # Meetings for 2019 Melt Events at Summit
 
+## 1 June 2020
+- Attendees
+  - Neely and Heather
+- Heather
+  - Want to create mergesonde product 
+  - [x] Email Bill Neff regarding strange echos in the sodar
+  - Turner's working the MWR-OE retrievals
+    - MWRret
+
+- ToDo
+  - [x] Email Chris
+  - [ ] Sub-surface snow model
+  - [ ] Walden/Turner AERI-OE
+
+
 ## 7 November 2019
 - Attendees
   - Chris, Bill, Heather, Neely
