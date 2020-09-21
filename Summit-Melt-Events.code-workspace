@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../data/summit/MeltEvents2019"
+		}
+	],
+	"settings": {
+		"python.dataScience.jupyterServerURI": "local"
+	}
+}
